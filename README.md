@@ -1,6 +1,6 @@
-# ⚽ Football Player Scouting & Similarity Recommendation System
+#  Football Player Scouting & Similarity Recommendation System
 
-One project covering **Machine Learning** and **Recommender Systems**.
+Given a player's statistical profile, use ML to analyze/estimate player attributes and a recommendation engine to identify players with similar playing profiles.
 
 ## Run it
 ```bash
